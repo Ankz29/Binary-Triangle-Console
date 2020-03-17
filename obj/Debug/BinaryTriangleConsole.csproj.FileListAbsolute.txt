@@ -1,0 +1,7 @@
+C:\Users\Ankita\source\repos\BinaryTriangleConsole\BinaryTriangleConsole\bin\Debug\BinaryTriangleConsole.exe.config
+C:\Users\Ankita\source\repos\BinaryTriangleConsole\BinaryTriangleConsole\bin\Debug\BinaryTriangleConsole.exe
+C:\Users\Ankita\source\repos\BinaryTriangleConsole\BinaryTriangleConsole\bin\Debug\BinaryTriangleConsole.pdb
+C:\Users\Ankita\source\repos\BinaryTriangleConsole\BinaryTriangleConsole\obj\Debug\BinaryTriangleConsole.csprojAssemblyReference.cache
+C:\Users\Ankita\source\repos\BinaryTriangleConsole\BinaryTriangleConsole\obj\Debug\BinaryTriangleConsole.csproj.CoreCompileInputs.cache
+C:\Users\Ankita\source\repos\BinaryTriangleConsole\BinaryTriangleConsole\obj\Debug\BinaryTriangleConsole.exe
+C:\Users\Ankita\source\repos\BinaryTriangleConsole\BinaryTriangleConsole\obj\Debug\BinaryTriangleConsole.pdb
